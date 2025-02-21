@@ -50,7 +50,7 @@ How to Request Data from the Microservice
 
 How to Receive Data from the Microservice
     -   The microservice responds with a JSON array of activity recommendations. Each activity object contains the following fields:
-    -   Example Response (JSON)
+    -   Example Response (JSON):
 
         [
             {
